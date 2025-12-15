@@ -91,7 +91,7 @@ This project demonstrates professional-level front-end architecture, creative UI
 
 ## 👨‍💻 Author
 
-**Developed by:** [Niku Namada](https://github.com/honestdev125)  
+**Developed by:** [Toma Kawaguchi](https://github.com/toma-work125)  
 💬 Front-End Developer | Crafting cinematic and interactive web experiences  
 
 ---
